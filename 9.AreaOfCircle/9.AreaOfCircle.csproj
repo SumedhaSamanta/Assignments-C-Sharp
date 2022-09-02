@@ -7,7 +7,7 @@
     <ProjectGuid>{2F64298A-76ED-40B6-9042-61B90A1AFF64}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_9.AreaOfCircle</RootNamespace>
-    <AssemblyName>_9.AreaOfCircle</AssemblyName>
+    <AssemblyName>9.AreaOfCircle</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="9.AreaOfCircle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

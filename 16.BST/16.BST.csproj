@@ -7,7 +7,7 @@
     <ProjectGuid>{E2468BDB-089E-44F1-8587-81C066E63904}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_16.BST</RootNamespace>
-    <AssemblyName>_16.BST</AssemblyName>
+    <AssemblyName>16.BST</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="16.BST.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

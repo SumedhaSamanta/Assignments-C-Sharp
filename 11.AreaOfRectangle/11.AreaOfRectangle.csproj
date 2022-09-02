@@ -7,7 +7,7 @@
     <ProjectGuid>{9ADAF0F8-EE2D-4840-90A0-428994C658BF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_11.AreaOfRectangle</RootNamespace>
-    <AssemblyName>_11.AreaOfRectangle</AssemblyName>
+    <AssemblyName>11.AreaOfRectangle</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="11.AreaOfRectangle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

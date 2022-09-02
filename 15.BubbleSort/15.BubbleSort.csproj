@@ -7,7 +7,7 @@
     <ProjectGuid>{959CF1CC-B156-4296-B04E-DC367229D2D6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_15.BubbleSort</RootNamespace>
-    <AssemblyName>_15.BubbleSort</AssemblyName>
+    <AssemblyName>15.BubbleSort</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="15.BubbleSort.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -7,7 +7,7 @@
     <ProjectGuid>{52D8D50E-9FD4-4625-ACBF-92303FC65DB9}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_1.Swap2Variables</RootNamespace>
-    <AssemblyName>_1.Swap2Variables</AssemblyName>
+    <AssemblyName>1.Swap2Variables</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="1.Swap2Variables.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

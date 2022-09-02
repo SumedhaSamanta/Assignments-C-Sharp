@@ -7,7 +7,7 @@
     <ProjectGuid>{3BA28E92-F527-426A-9BD6-4DECF30CFDC7}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_7.SizeOfDataTypes</RootNamespace>
-    <AssemblyName>_7.SizeOfDataTypes</AssemblyName>
+    <AssemblyName>7.SizeOfDataTypes</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="7.SizeOfDataTypes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

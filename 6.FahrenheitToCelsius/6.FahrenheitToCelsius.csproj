@@ -7,7 +7,7 @@
     <ProjectGuid>{6C577427-8DEC-46B1-A88F-C90B0FE976EA}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_6.FahrenheitToCelsius</RootNamespace>
-    <AssemblyName>_6.FahrenheitToCelsius</AssemblyName>
+    <AssemblyName>6.FahrenheitToCelsius</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="6.FahrenheitToCelsius.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

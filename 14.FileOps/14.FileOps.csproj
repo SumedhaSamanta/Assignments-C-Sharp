@@ -7,7 +7,7 @@
     <ProjectGuid>{E39E23AB-602B-4FCD-99EA-57AD4502DCA6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_14.FileOps</RootNamespace>
-    <AssemblyName>_14.FileOps</AssemblyName>
+    <AssemblyName>14.FileOps</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="14.FileOps.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

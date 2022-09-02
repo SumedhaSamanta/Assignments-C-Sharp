@@ -7,7 +7,7 @@
     <ProjectGuid>{F40AD748-1FB8-4610-9D97-2E81231DAF5E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_13.OOPS</RootNamespace>
-    <AssemblyName>_13.OOPS</AssemblyName>
+    <AssemblyName>13.OOPS</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="13.OOPS.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

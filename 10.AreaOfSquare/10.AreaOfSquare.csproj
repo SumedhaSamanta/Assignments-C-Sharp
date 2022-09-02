@@ -7,7 +7,7 @@
     <ProjectGuid>{7875E27B-7D3B-47B6-A644-CEF22B0B2A66}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_10.AreaOfSquare</RootNamespace>
-    <AssemblyName>_10.AreaOfSquare</AssemblyName>
+    <AssemblyName>10.AreaOfSquare</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="10.AreaOfSquare.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
